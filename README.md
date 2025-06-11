@@ -45,3 +45,8 @@ npm install
 
 # Or for Python version
 pip install -r requirements.txt
+## 🙋‍♂️ Authors & Contributors
+
+- **Mansi Bisht** ([mansicode12](https://github.com/mansicode12))
+- **Ansh Chauhan** ([Anshji789123](https://github.com/Anshji789123))
+
