@@ -37,8 +37,7 @@ No more switching between apps or digging through blogs — our AI does the heav
 ## 🔧 Tech Stack
 
 - 🎨 **Frontend**: React / HTML / CSS / JavaScript  
-- 🧪 **Backend**: Node.js / Express or Python (Flask/FastAPI)  
-- 🤖 **AI Integration**: OpenAI / NLP for itinerary generation  
+- 🧪 **Backend**: Node.js / Express   
 - 🗺️ **APIs**: Google Maps, OpenWeatherMap, Travel Advisor  
 - 🗃️ **Database**: Firebase / MongoDB
 
